@@ -6,6 +6,7 @@
 
 
 #### Useful links:
-- [http://www.plcdev.com/book/export/html/9](http://www.plcdev.com/book/export/html/9)
 - [https://literature.rockwellautomation.com](https://literature.rockwellautomation.com/)
 - [https://www.automation.siemens.com](https://www.automation.siemens.com/)
+
+
