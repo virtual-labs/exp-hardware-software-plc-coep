@@ -7,14 +7,9 @@
         "a": "Hardwired relays",
         "b": "Analog controllers",
         "c": "Microcomputers",
-        "d": "All of these",
+        "d": "All of these"
       },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -24,14 +19,9 @@
         "a": "Composite",
         "b": "Analog",
         "c": "Digital",
-        "d": "None of these",
+        "d": "None of these"
       },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -41,14 +31,9 @@
         "a": "An open contact symbol",
         "b": "A closed contact symbol",
         "c": "None of these",
-        "d": "A coil symbol",
+        "d": "A coil symbol"
       },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -58,14 +43,9 @@
         "a": "1000",
         "b": "1024",
         "c": "1036",
-        "d": "1048",
+        "d": "1048"
       },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "One can be programmed other not",
         "d": "None of these",
       },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
