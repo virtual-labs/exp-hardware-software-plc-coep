@@ -1,15 +1,11 @@
-
-# Study hardware and software used in PLC
 ### Evolution of PLC:-
 
 When the first electronic machine control was designed, relays were to control the machine logic.
 Relay logic has its own limitations.
 
-    1.Less reliability
-
-    2.The delay involved in switching of contacts
-
-    3.Less flexibility and difficult troubleshooting due to hard wired connection
+1. Less reliability
+2. The delay involved in switching of contacts
+3. Less flexibility and difficult troubleshooting due to hard wired connection
 
  ### What is PLC?
 
@@ -19,10 +15,10 @@ Programs to control machine operation are typically stored in battery-backed or 
 
 ### Basic Components of PLC:-
 
-1.CPU and Memory module
-2.Power supply
-3.Input and output module
-4.Programming device
+1. CPU and Memory module
+2. Power supply
+3. Input and output module
+4. Programming device
 
 <center><img src="images/img1.jpg" title="" /></center>
 
@@ -35,14 +31,14 @@ Inputs carry signals from the field (process) to the controller. Various types o
 
 - ##### Programming Device:-
 
-The PLC is programmed using a special software using computer or hand Held Terminal(HHT) that can load and change the logic inside. 
+- The PLC is programmed using a special software using computer or hand Held Terminal(HHT) that can load and change the logic inside. 
 
 ### Operation of a PLC system:-:
 The operation of the PLC is determined by 3 steps.
 
-1.Reading the field status form input devices
-2.Execution or solving the logic, and
-3.Updating the output devices status.
+1. Reading the field status form input devices
+2. Execution or solving the logic, and
+3. Updating the output devices status.
 
 <center><img src="images/img2.jpg" title="" /></center>
 
