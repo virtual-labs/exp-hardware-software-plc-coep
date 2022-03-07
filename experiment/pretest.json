@@ -9,7 +9,12 @@
         "c": "Process logic control",
 		"d": "None of these",
       },
-     
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -21,7 +26,12 @@
         "c": "Normally close and Normally open",
 		"d": "All of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -33,7 +43,12 @@
         "c": "Composite Processes",
 		"d": "All of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -45,7 +60,12 @@
         "c": "A signal which is not varying w.r.t time",
 		"d": "All of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -57,7 +77,12 @@
         "c": "Control Processing Unit",
         "d": "Central Processing Unit"
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     }

@@ -9,7 +9,12 @@
         "c": "Microcomputers",
         "d": "All of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -21,7 +26,12 @@
         "c": "Digital",
         "d": "None of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -33,7 +43,12 @@
         "c": "None of these",
         "d": "A coil symbol",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -45,7 +60,12 @@
         "c": "1036",
         "d": "1048",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -57,7 +77,12 @@
         "c": "One can be programmed other not",
         "d": "None of these",
       },
-      
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
