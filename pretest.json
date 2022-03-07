@@ -1,0 +1,64 @@
+{
+	"version": 2.0,
+	"questions": [{
+			"question": "The term ‘PLC’ stands for:",
+			"answers": {
+				"a": "Programmable logic controller",
+				"b": "Programmable logic Center",
+				"c": "Process logic control",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "For an electromagnetic relay two types of contacts available are:",
+			"answers": {
+				"a": "Nominal close and Nominal open",
+				"b": "Nominal close and Partial open",
+				"c": "Normally close and Normally open",
+				"d": "All of these"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "Originally PLCs were designed to control:",
+			"answers": {
+				"a": "Continuous processes",
+				"b": "Batch Processes",
+				"c": "Composite Processes",
+				"d": "All of these"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The term ‘analog’ refers to:",
+			"answers": {
+				"a": "A signal which is continuously varying w.r.t time",
+				"b": "A signal which is constant w.r.t time",
+				"c": "A signal which is not varying w.r.t time",
+				"d": "All of these"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The word ‘CPU’ in microprocessor systems is:",
+			"answers": {
+				"a": "Control Process and Use",
+				"b": "Central Process and Use",
+				"c": "Control Processing Unit",
+				"d": "Central Processing Unit"
+			},
+			
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		}
+	]
+}
