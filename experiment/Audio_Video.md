@@ -1,0 +1,32 @@
+## Study hardware and software used in PLC
+Video will come soon. Work in progress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
