@@ -7,7 +7,7 @@
         "a": "Hardwired relays",
         "b": "Analog controllers",
         "c": "Microcomputers",
-        "d": "All of these",
+        "d": "All of these"
       },
       
       "correctAnswer": "a",
@@ -19,7 +19,7 @@
         "a": "Composite",
         "b": "Analog",
         "c": "Digital",
-        "d": "None of these",
+        "d": "None of these"
       },
       
       "correctAnswer": "c",
@@ -31,7 +31,7 @@
         "a": "An open contact symbol",
         "b": "A closed contact symbol",
         "c": "None of these",
-        "d": "A coil symbol",
+        "d": "A coil symbol"
       },
       
       "correctAnswer": "d",
@@ -43,7 +43,7 @@
         "a": "1000",
         "b": "1024",
         "c": "1036",
-        "d": "1048",
+        "d": "1048"
       },
       
       "correctAnswer": "b",

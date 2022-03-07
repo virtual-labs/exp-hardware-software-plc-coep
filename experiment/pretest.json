@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The term ‘PLC’ stands for:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Programmable logic controller",
+        "b": "Programmable logic Center",
+        "c": "Process logic control",
+		"d": "None of these",
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For an electromagnetic relay two types of contacts available are:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nominal close and Nominal open",
+        "b": "Nominal close and Partial open",
+        "c": "Normally close and Normally open",
+		"d": "All of these",
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Originally PLCs were designed to control:",
+      "answers": {
+        "a": "Continuous processes",
+        "b": "Batch Processes",
+        "c": "Composite Processes",
+		"d": "All of these",
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The term ‘analog’ refers to:",
+      "answers": {
+        "a": "A signal which is continuously varying w.r.t time",
+        "b": "A signal which is constant w.r.t time",
+        "c": "A signal which is not varying w.r.t time",
+		"d": "All of these",
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The word ‘CPU’ in microprocessor systems is:",
+      "answers": {
+        "a": "Control Process and Use",
+        "b": "Central Process and Use",
+        "c": "Control Processing Unit",
+        "d": "Central Processing Unit"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
