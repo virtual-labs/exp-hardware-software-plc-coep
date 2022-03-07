@@ -1,90 +1,64 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "The PLCs were originally designed to replace:",
-      "answers": {
-        "a": "Hardwired relays",
-        "b": "Analog controllers",
-        "c": "Microcomputers",
-        "d": "All of these",
-      },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What type of input a limit switch is w.r.t PLC?",
-      "answers": {
-        "a": "Composite",
-        "b": "Analog",
-        "c": "Digital",
-        "d": "None of these",
-      },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "In a ladder diagram an output would be represented by:",
-      "answers": {
-        "a": "An open contact symbol",
-        "b": "A closed contact symbol",
-        "c": "None of these",
-        "d": "A coil symbol",
-      },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "When referring to the capacity, the abbreviation K represents ---- locations or words:",
-      "answers": {
-        "a": "1000",
-        "b": "1024",
-        "c": "1036",
-        "d": "1048",
-      },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "The basic difference between a PLC and a relay logic is that:",
-      "answers": {
-        "a": "Different types of input/outputs devices are used",
-        "b": "Different voltage levels for inputs/outputs are used",
-        "c": "One can be programmed other not",
-        "d": "None of these",
-      },
-       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+	"version": 2.0,
+	"questions": [{
+			"question": "The PLCs were originally designed to replace:",
+			"answers": {
+				"a": "Hardwired relays",
+				"b": "Analog controllers",
+				"c": "Microcomputers",
+				"d": "All of these"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "What type of input a limit switch is w.r.t PLC?",
+			"answers": {
+				"a": "Composite",
+				"b": "Analog",
+				"c": "Digital",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "In a ladder diagram an output would be represented by:",
+			"answers": {
+				"a": "An open contact symbol",
+				"b": "A closed contact symbol",
+				"c": "None of these",
+				"d": "A coil symbol"
+			},
+		
+			"correctAnswer": "d",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "When referring to the capacity, the abbreviation K represents ---- locations or words:",
+			"answers": {
+				"a": "1000",
+				"b": "1024",
+				"c": "1036",
+				"d": "1048"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The basic difference between a PLC and a relay logic is that:",
+			"answers": {
+				"a": "Different types of input/outputs devices are used",
+				"b": "Different voltage levels for inputs/outputs are used",
+				"c": "One can be programmed other not",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		}
+	]
 }
