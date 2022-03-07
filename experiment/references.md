@@ -1,12 +1,11 @@
 ## Study hardware and software used in PLC
 #### Books:
-1. Gary Dunning, _ìIntroduction Programmable Logic Controllersî_, CENGAGE Learning, 3rd Ed., 2006
-2. John R. Hackworth, Frederick D. Hackworth Jr.,_ìProgrammable Logic Controllers'_, Pearson, 2004
-3. Bolton, _ìProgrammable Logic Controllersî_, Elsevier, 4th Ed., 2006
+1. Gary Dunning, _‚ÄúIntroduction Programmable Logic Controllers‚Äù_, CENGAGE Learning, 3rd Ed., 2006
+2. John R. Hackworth, Frederick D. Hackworth Jr.,_‚ÄúProgrammable Logic Controllers'_, Pearson, 2004
+3. Bolton, _‚ÄúProgrammable Logic Controllers‚Äù_, Elsevier, 4th Ed., 2006
 
 
 #### Useful links:
-1. http://www.plcdev.com/book/export/html/9  
-2. http://www.plcmanual.com/
-3. http://literature.rockwellautomation.com/
-4. http://www.automation.siemens.com/
+- [http://www.plcdev.com/book/export/html/9](http://www.plcdev.com/book/export/html/9)
+- [https://literature.rockwellautomation.com](https://literature.rockwellautomation.com/)
+- [https://www.automation.siemens.com](https://www.automation.siemens.com/)
